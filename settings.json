@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "elite_squad.aternos.me",
+    "port": 60264,
     "version": "1.20.1",
     "try-creative": false
   },
